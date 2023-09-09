@@ -1,3 +1,5 @@
+// Code en français
+
 function exporterConversationsDansGoogleSheets() {
   // Remplacez 'Libellé' par le libellé spécifique que vous souhaitez traiter.
   var libelle = 'Libellé';
@@ -26,6 +28,8 @@ function exporterConversationsDansGoogleSheets() {
     }
   }
 }
+
+// Code en anglais
 
 function exportConversationsToGoogleSheets() {
   // Replace 'Label' with the specific label you want to process.
