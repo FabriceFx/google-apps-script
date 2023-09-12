@@ -12,7 +12,7 @@ le sujet, l'expéditeur et le contenu du mail
 2 - Comment bloquer l’accès à la saisie dans un formulaire Google Forms ? 
 > bloquerForm.js
 
-============================================================================================================
+=======================================================================================================
 
 EN
 This repository contains my various codes developed with Google Apps Script
